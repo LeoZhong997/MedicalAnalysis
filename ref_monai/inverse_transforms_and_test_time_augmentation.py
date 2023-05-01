@@ -10,5 +10,3 @@ After that, we’ll do normal 2D training with a few augmentations,
 which means that we’ll be able to benefit from the inverse transformations.
 """
 
-
-
